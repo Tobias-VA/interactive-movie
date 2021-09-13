@@ -2,7 +2,7 @@
 
 # Interactive Movie App
 
-Die Anwendung wurde von Team Pünktlich im Rahmen der Veranstaltung 'Interaktives Storytelling: Multimedia Produktion' produziert. Eine gehostete Variante der App kann unter http://outofit.aescht.net abgerufen werden.
+Die Anwendung wurde von Team Pünktlich im Rahmen der Veranstaltung 'Interaktives Storytelling: Multimedia Produktion' produziert. Eine gehostete Variante der App kann unter https://outofit.aescht.net abgerufen werden.
 
 ## Getting Started
 
